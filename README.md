@@ -2,8 +2,11 @@
 ## Research on the Python programming language
 # Pythonのライブラリできること
 
+# 勉強したい本
+* 独習Python
+
 ## 特徴
-グルー言語
+グルー言語(他の言語との橋渡しができる)
 ## Visiualization
 * matplotlib(グラフ作成)
 
@@ -29,8 +32,14 @@
 * TensorFlow(ディープラーニング)
 
 ## その他
-* opencv
+* OpenCv
 * mecab
+* Pandas
+* python-crontab
+* pytest
+* PyAutoGui
+
+
 
 ### 補足
 ライブラリとはimport foo で書かれる文頭に存在するfoo部である．
@@ -51,6 +60,10 @@ Python2系とPython3系があってだるい
 
 # References
 1. https://www.youtube.com/watch?v=9xm_nDlNhVA
+* https://www.youtube.com/watch?v=sZWjQwGtG6E
+↑その他にあるライブラリのソース
+* https://www.youtube.com/watch?v=HAQzAaeThbE
+↑特徴のソース
 * 
 * 
 * 
@@ -62,5 +75,5 @@ Python2系とPython3系があってだるい
 * 
 * 
 * 
-* 
-* 
+
+cron unix

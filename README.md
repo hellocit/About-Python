@@ -1,7 +1,9 @@
 # About-Python
 ## Research on the Python programming language
-## Pythonのライブラリできること
+# Pythonのライブラリできること
 
+## 特徴
+グルー言語
 ## Visiualization
 * matplotlib(グラフ作成)
 
@@ -26,6 +28,10 @@
 * PyTorch(ディープラーニング)
 * TensorFlow(ディープラーニング)
 
+## その他
+* opencv
+* mecab
+
 ### 補足
 ライブラリとはimport foo で書かれる文頭に存在するfoo部である．
 
@@ -35,7 +41,7 @@ Python2系とPython3系があってだるい
 ```pip3```
 
 # まとめ
-## Pythonがよく使われる分野
+## Pythonがよく使われる分野 [1]
 * Webアプリ
 * PC作業の自動化
 * 科学計算
@@ -44,7 +50,7 @@ Python2系とPython3系があってだるい
 何でもできる高級言語（苦手なこともある...）
 
 # References
-* https://www.youtube.com/watch?v=9xm_nDlNhVA
+1. https://www.youtube.com/watch?v=9xm_nDlNhVA
 * 
 * 
 * 

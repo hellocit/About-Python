@@ -2,7 +2,7 @@
 * cv2
 * matplotlib
 * PyAutoGUI
-* 
+* numpy
 * 
 * 
 * 
